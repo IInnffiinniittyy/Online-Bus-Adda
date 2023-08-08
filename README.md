@@ -59,8 +59,7 @@
 - run this file as Spring Boot Application
 - Yipee! 🫡
 - 👇 to get a gist of the API without installation you can go to below deployed link and play around the APIs controllers  👇
-> https://online-bus-adda-production-7652.up.railway.app/swagger-ui/index.html 
-- Team Presentation : https://drive.google.com/file/d/1MNPlzSNh3XubVO9n8_Ajd-Snym-uIvqY/view?usp=sharing
+> https://online-bus-adda-production-7652.up.railway.app/swagger-ui/index.html
 
 <hr/>
 
